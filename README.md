@@ -1,4 +1,11 @@
-### Hi there 👋
+### Thank you for visiting my page!
+
+I am learning lots of things right now hoping to be a data scientist. Here I've included some miscellaneous projects, mostly from online classes.
+
+If you're looking for somebody to collaborate with, please reach out!
+
+He/him
+greater LA area
 
 <!--
 **nick-kopy/nick-kopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
