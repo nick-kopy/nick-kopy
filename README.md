@@ -4,7 +4,7 @@ I am learning lots of things right now hoping to be a data scientist. Here I've 
 
 If you're looking for somebody to collaborate with, please reach out!
 
-He/him
+he / him;
 greater LA area
 
 <!--
