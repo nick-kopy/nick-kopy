@@ -1,11 +1,6 @@
-### Thank you for visiting my page!
+### Welcome!
 
-I am learning lots of things right now hoping to be a data scientist. Here I've included some miscellaneous projects, mostly from online classes.
-
-If you're looking for somebody to collaborate with, please reach out!
-
-he / him;
-greater LA area
+Not long ago I was a graduate student but found myself more interested in the statistics driving research methods than I was in the study of psychology. I transitioned to data science, finding its process much like building and solving a puzzle at the same time. I just think it’s amazing that we can give the data a meaning beyond the sum of its parts. I took a deep dive into some of the practical applications with Galvanize, collaborating with other data scientists on exploratory data analysis, machine learning, and cloud computing. I now specialize in data cleaning and exploratory data analysis. Moving forward I am analyzing bicycle related data to find trends, optimizations, or hidden gems. With the tools at our disposal, nothing is off limits in terms of what we can observe and improve. 
 
 <!--
 **nick-kopy/nick-kopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
